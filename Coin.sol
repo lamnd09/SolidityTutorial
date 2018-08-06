@@ -23,3 +23,5 @@ contract Coin {
         emit Sent(msg.sender, receiver, amount);
     }
 }
+
+
